@@ -19,5 +19,5 @@ I'm a passionate **Frontend Developer** and continuously working on real-world p
 
 ## 📫 Let's Connect!
  
-- 💼 Portfolio [rimsha-portfolio-dev.vercel.app](https://rimsha-portfolio-dev.vercel.app/) 
+- 💼 Portfolio [rimsha-javed-dev.vercel.app](https://rimsha-javed-dev.vercel.app/) 
 - 📧 Email: rimshajavedd@gmail.com  
